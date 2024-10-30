@@ -9,3 +9,4 @@ C++ Design pattern &amp; Refactoring 교육
 5. Decorator
 6. Adapter
 7. Proxy
+8. Command
