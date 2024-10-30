@@ -10,3 +10,6 @@ C++ Design pattern &amp; Refactoring 교육
 6. Adapter
 7. Proxy
 8. Command
+9. Facade
+10. Bridge
+11. Singleton
