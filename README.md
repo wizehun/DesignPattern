@@ -8,3 +8,4 @@ C++ Design pattern &amp; Refactoring 교육
 4. Composite      
 5. Decorator
 6. Adapter
+7. Proxy
