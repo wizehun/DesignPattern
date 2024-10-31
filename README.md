@@ -13,3 +13,7 @@ C++ Design pattern &amp; Refactoring 교육
 9. Facade
 10. Bridge
 11. Singleton
+12. Flyweight
+13. Prototype
+14. Abstract Factory
+15. Factory method
