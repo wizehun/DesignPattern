@@ -20,3 +20,5 @@ C++ Design pattern &amp; Refactoring 교육
 16. Observer
 17. Iterator
 18. Visitor
+19. Memento
+20. ChainOfResponsibility
