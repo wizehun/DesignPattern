@@ -17,3 +17,6 @@ C++ Design pattern &amp; Refactoring 교육
 13. Prototype
 14. Abstract Factory
 15. Factory method
+16. Observer
+17. Iterator
+18. Visitor
